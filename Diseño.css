@@ -282,6 +282,6 @@ text-size-adjust: auto;
     width: 500px;
     height: 400px;
     margin-top: -30px;
-    float: right;
-    margin-left: 80;
+    float: left;
+    margin-left: 200;
 }
