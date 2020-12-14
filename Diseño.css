@@ -211,7 +211,7 @@ text-size-adjust: auto;
 }
 #doc{
     width: 950px;
-    height: 500px;
+    height: 800px;
     margin-top: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
@@ -281,6 +281,7 @@ text-size-adjust: auto;
 #vid1{
     width: 500px;
     height: 400px;
-    margin-top: -30px;
-    float: center;
+    margin-top: -8px;
+    float: left;;
+    margin-left: 200;
 }
